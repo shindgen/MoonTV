@@ -100,11 +100,6 @@
         "name": "百万资源",
         "adult": "true"
     },
-    "souav": {
-        "api": "https://api.souavzy.vip/api.php/provide/vod",
-        "name": "souav资源",
-        "adult": "true"
-    },
     "huangcang": {
         "api": "https://hsckzy888.com/api.php/provide/vod",
         "name": "黄色仓库",
